@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_vscode=self.webpackChunkwebpack_vscode||[]).push([[600],{587:function(n,u,e){function c(n,u){return n+u}function t(n,u){return n*u}e.r(u),e.d(u,{add:function(){return c},mul:function(){return t}})}}]);
+//# sourceMappingURL=math.81638bd2.chunk.js.map
